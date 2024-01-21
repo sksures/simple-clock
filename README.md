@@ -8,3 +8,5 @@ Browser Compatibility: Accessible across various web browsers.
 Usage
 Open the application in your preferred web browser.
 The current time is displayed on the screen in a clear format.
+
+You can create a Simple Clock Web Application using Flask, a Python web framework
